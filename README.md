@@ -3,4 +3,4 @@ IOS development
 
 To start up IOS developing
 
-development tutorial sample 
+development sample tutorials.  
